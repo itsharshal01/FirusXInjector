@@ -1,0 +1,15 @@
+--------
+- Added Busybox! Eperimental!
+- Added new log files to log .tar file u can make over menu!
+- Added Thermal into service.sh to persist Thermal State u set after rebooting ur phone!
+--------
+- Battery saver on Battery profile > Enabled
+- Battery saver on all other Profiles > Disabled
+- Adjusted Low Power Mode Code working af now!
+- Internet, tweaks included
+- New logs interface
+- Menu display changes
+- Reworked Uninstaller from Menu
+--------
+- And many many more !!!
+--------
