@@ -42,7 +42,7 @@
 
 
 ## I'm having bugs with the module, where can I report it? 
-- For you to report bugs, you must go to my telegram channel and report there, group link ... https://t.me/BeastOg
+- For you to report bugs, you must go to my telegram channel and report there, group link ... https://t.me/TakEDowNOp
 
 #IMPORTANT
 -Usually it has to be compatible with any phone running Android OS but,
@@ -54,4 +54,4 @@
 - and if you point the finger at me for messing up your device,
 - I will laugh at you.
 
-<h1 align="center"><b>Created By @BeastOg (Telegram)</b></h1>
+<h1 align="center"><b>Created By @TakEDowNOp (Telegram)</b></h1>
