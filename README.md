@@ -3,7 +3,7 @@
 
  <h1 align="center"><b><a href="https://t.me/beastxinjector"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a></b></h1>
 
-<h1 align="center"><b>Focused on Maximizing user experience, multiple profiles, Changeable in Termux Menu + Many More Features! Stay Fast!</b></h1>
+<h1 align="center"><b>Focused on Maximizing user experience, multiple profiles </b></h1>
 
  <h1 align="center"><b> UNIVERSAL </b></h1> 
 
