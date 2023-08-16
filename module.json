@@ -2,5 +2,13 @@
   "versionCode": 130,
   "version": "v1.3.0",
   "zipUrl": "https://github.com/beastog/BeastXInjector/releases/download/Latest/BeastXInjector.zip",
-  "changelog": "https://github.com/beastog/BeastXInjector/blob/main/change.log"
+  "changelog": "ADDED : KERNEL TWEAKS
+ADDED : CPU TWEAKS
+ADDED : GPU TWEAKS 
+ADDED : KSM TWEAKS
+ADDED : SHEDUTUNE TWEAKS
+ADDED : I/O TWEAKS
+ADDED : ADRENO TWEAKS
+ADDED : VIRTUAL MACHINE TWEAKS
+ADDED : MORE & MORE"
 }
