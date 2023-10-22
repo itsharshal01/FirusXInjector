@@ -5,13 +5,14 @@
 
 <h1 align="center"><b>Focused on Maximizing user experience, multiple profiles </b></h1>
 
- <h1 align="center"><b> UNIVERSAL </b></h1> 
+ <h1 align="center"><b> 🧿 </b></h1> 
 
 # <h1 align="center"><b>Requirements:</b></h1>
 -> ✓ Magisk 22.0+
--> ✓ Latest built-in busybox
--> ✓ Android 5.0+
 
+-> ✓ Latest built-in busybox
+
+-> ✓ Android 5.0+
 
 
 # <h1 align="center"><b>5 Diffrent Profile's!</b></h1>
@@ -42,16 +43,21 @@
 
 
 # I'm having bugs with the module, where can I report it? 
--> For you to report bugs, you must go to my telegram channel and report there, group link ... https://t.me/TakEDowNOp
+-> For you to report bugs, you must go to my telegram channel and report there, group link https://t.me/ItsHarsh02
 
 #IMPORTANT
 -> Usually it has to be compatible with any phone running Android OS but,
 
 -> ! Get notified yourself that I am not responsible for bricked devices. We do our best help you out with any problems.
+
 -> Thermonuclear war, or you getting fired because the alarm app failed.
+
 -> Please do some research if you have any concerns about features included in this Codes/Module
--> YOU are choosing to make these modifications,
--> and if you point the finger at me for messing up your device,
+
+-> YOU are choosing to make these modifications.
+
+-> and if you point the finger at me for messing up your device.
+
 -> I will laugh at you.
 
 <h1 align="center"><b>Module Devloper - @ItsHarsh02 (Telegram)</b></h1>
