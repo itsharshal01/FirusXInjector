@@ -13,9 +13,7 @@
 -> ✓ Android 5.0+
 
 
-# <h1 align=""><b>5 Diffrent Profile's!</b></h1>
-# <h1 align=""><b>None No Tweaks</b></h1>
--> This mode is for No tweaks after selecting this mode you need to reboot first!
+# <h1 align=""><b>4 Diffrent Profile's!</b></h1>
 
 # <h1 align=""><b>Battery Saver</b></h1>
 -> Reduce Power Drain,Improve Energetic Efficiency,Maximum Battery Backup.
@@ -23,7 +21,7 @@
 # <h1 align=""><b>Daily Usage</b></h1>
 -> Daily usage mode Between Battery And Performance,Perfect For Daily Use/Tasks.
 
-# <h1 align=""><b>Performance lite</b></h1>
+# <h1 align=""><b>Performance Lite</b></h1>
 -> Optimize Your Device Performance By Saving Battery And Minimizing Resources Usage
 
 # <h1 align=""><b>Gaming Extreme</b></h1>
