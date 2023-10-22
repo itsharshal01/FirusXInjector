@@ -15,7 +15,7 @@
 
 # <h1 align=""><b>5 Diffrent Profile's!</b></h1>
 # <h1 align=""><b>None No Tweaks</b></h1>
--> This mode is for No tweaks after selecting this mode you need to reboot first !
+-> This mode is for No tweaks after selecting this mode you need to reboot first!
 
 # <h1 align=""><b>Battery Saver</b></h1>
 -> Reduce Power Drain,Improve Energetic Efficiency,Maximum Battery Backup.
