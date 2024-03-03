@@ -1,56 +1,39 @@
- <h1 align="center"><b> FirusXInjector </b></h1> 
- <h4 align="">Tweak Module to improve ur experience, Power, Battery and performance on your device.</h4>
+Sure, here's a more visually appealing version of the readme:
 
- <h1 align="center"><b><a href="https://t.me/FirusXInjector"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a></b></h1>
+---
 
-<h1 align="center"><b>Focused on Maximizing user experience, multiple profiles </b></h1>
+# FirusXInjector
 
-# <h1 align=""><b>Requirements:</b></h1>
--> ✓ Magisk 22.0+
+## **Supercharge Your Android Experience!**
 
--> ✓ Latest built-in busybox
+FirusXInjector is a powerful tweak module designed to elevate your device's performance, extend battery life, and enhance your overall user experience. With carefully crafted profiles, it caters to various usage scenarios, ensuring optimal performance and efficiency tailored to your needs.
 
--> ✓ Android 5.0+
+### **Why FirusXInjector?**
 
+- **Battery Saver**: Maximize battery life with optimized power management.
+- **Daily Usage**: Find the perfect balance between performance and efficiency for your daily tasks.
+- **Performance Lite**: Boost device performance while conserving battery and resources.
+- **Gaming Extreme**: Unleash maximum power for an unparalleled gaming experience.
 
-# <h1 align=""><b>4 Diffrent Profile's!</b></h1>
+## **Requirements**
+- Magisk 22.0+
+- Latest built-in busybox
+- Android 5.0+
 
-# <h1 align=""><b>Battery Saver</b></h1>
--> Reduce Power Drain,Improve Energetic Efficiency,Maximum Battery Backup.
+## **Compatibility**
+FirusXInjector is designed to work across a wide range of devices and processor types. While it's generally universal, some devices may experience compatibility issues.
 
-# <h1 align=""><b>Daily Usage</b></h1>
--> Daily usage mode Between Battery And Performance,Perfect For Daily Use/Tasks.
+## **Bug Reporting**
+Found a bug? Join our Telegram channel and report it: [Telegram Channel](https://t.me/ItsHarsh02)
 
-# <h1 align=""><b>Performance Lite</b></h1>
--> Optimize Your Device Performance By Saving Battery And Minimizing Resources Usage
+## **Important Notes**
+- While FirusXInjector aims to be compatible with most devices, the developer cannot guarantee its performance on every device.
+- Users are encouraged to research the features and risks associated with using this module.
+- By choosing to install FirusXInjector, users assume full responsibility for any modifications made to their devices.
 
-# <h1 align=""><b>Gaming Extreme</b></h1>
--> Recommended for Hardcore Gamers,Who Wanna super Max Performance While Playing, It Set Both CPU / GPU To Max Power.
+## **Developer**
+- **Developer**: [@ItsHarshal01](https://t.me/ItsHarsh02)
 
-# Does this module work on all devices/processor types? 
--> Yes, this module is universal, but it may not work correctly on some devices.
+---
 
-
-# Is there any chance my device will loop after installation? 
--> No, there is no way that will happen.
-
-
-# I'm having bugs with the module, where can I report it? 
--> For you to report bugs, you must go to my telegram channel and report there, group link https://t.me/ItsHarsh02
-
-# IMPORTANT
--> Usually it has to be compatible with any phone running Android OS but,
-
--> ! Get notified yourself that I am not responsible for bricked devices. We do our best help you out with any problems.
-
--> Thermonuclear war, or you getting fired because the alarm app failed.
-
--> Please do some research if you have any concerns about features included in this Codes/Module
-
--> YOU are choosing to make these modifications.
-
--> and if you point the finger at me for messing up your device.
-
--> I will laugh at you.
-
-<h1 align=""><b>Devloper - @ItsHarshal01 (Tg)</b></h1>
+Feel free to customize further according to your preferences!
