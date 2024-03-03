@@ -1,6 +1,3 @@
-Sure, here's a more visually appealing version of the readme:
-
----
 
 # FirusXInjector
 
