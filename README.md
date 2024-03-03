@@ -21,7 +21,7 @@ FirusXInjector is a powerful tweak module designed to elevate your device's perf
 FirusXInjector is designed to work across a wide range of devices and processor types. While it's generally universal, some devices may experience compatibility issues.
 
 ## **Bug Reporting**
-Found a bug? Join our Telegram channel and report it: [Telegram Channel](https://t.me/ItsHarsh02)
+Found a bug? Join our Telegram channel and report it: [Telegram Channel](https://t.me/Androidtweaker)
 
 ## **Important Notes**
 - While FirusXInjector aims to be compatible with most devices, the developer cannot guarantee its performance on every device.
@@ -29,7 +29,7 @@ Found a bug? Join our Telegram channel and report it: [Telegram Channel](https:/
 - By choosing to install FirusXInjector, users assume full responsibility for any modifications made to their devices.
 
 ## **Developer**
-- **Developer**: [@ItsHarshal01](https://t.me/ItsHarsh02)
+- **Developer**: [@ItsHarshal01](https://t.me/c0d3dude)
 
 ---
 
