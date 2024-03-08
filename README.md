@@ -29,7 +29,7 @@ Found a bug? Join our Telegram channel and report it: [Telegram Channel](https:/
 - By choosing to install FirusXInjector, users assume full responsibility for any modifications made to their devices.
 
 ## **Developer**
-- **Developer**: [@ItsHarshal01](https://t.me/c0d3dude)
+- **Developer**: [@C0d3dude](https://t.me/c0d3dude)
 
 ---
 
