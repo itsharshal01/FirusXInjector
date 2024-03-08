@@ -1,11 +1,11 @@
 
-# Android Tweaker 
+# AndroidxTweaker 
 
 ## **Supercharge Your Android Experience!**
 
 FirusXInjector is a powerful tweak module designed to elevate your device's performance, extend battery life, and enhance your overall user experience. With carefully crafted profiles, it caters to various usage scenarios, ensuring optimal performance and efficiency tailored to your needs.
 
-### **Why FirusXInjector?**
+### **Why AndroidxTweaker?**
 
 - **Battery Saver**: Maximize battery life with optimized power management.
 - **Daily Usage**: Find the perfect balance between performance and efficiency for your daily tasks.
