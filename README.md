@@ -33,4 +33,3 @@ Found a bug? Join our Telegram channel and report it: [Telegram Channel](https:/
 - **Developer**: [@C0d3h01](https://t.me/C0d3h01)
 
 ---
-# Feel free to customize further according to your preferences!
