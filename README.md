@@ -15,7 +15,7 @@ FirusXInjector is a powerful tweak module designed to elevate your device's perf
 
 ## **Requirements**
 - Magisk 22.0+
-- Latest built-in busybox
+- Latest busybox
 - Android 5.0+
 
 ## **Compatibility**
@@ -33,5 +33,4 @@ Found a bug? Join our Telegram channel and report it: [Telegram Channel](https:/
 - **Developer**: [@C0d3h01](https://t.me/C0d3h01)
 
 ---
-
-Feel free to customize further according to your preferences!
+# Feel free to customize further according to your preferences!
