@@ -41,16 +41,3 @@
 <h2 align="center">Developer</h2>
 
 <p align="center">- Developer: <a href="https://t.me/C0d3h01">@C0d3h01</a></p>
-
-<div align="center">
-  <a href="link_to_your_action" style="margin: 0 1rem; text-decoration: none;">
-    <button style="width: 150px; height: 50px; border-radius: 10px; background-color: #4CAF50; color: white; font-size: 16px; border: none; text-align: center; padding: 10px; cursor: pointer;">
-      Action 1
-    </button>
-  </a>
-  <a href="link_to_your_action" style="margin: 0 1rem; text-decoration: none;">
-    <button style="width: 150px; height: 50px; border-radius: 10px; background-color: #008CBA; color: white; font-size: 16px; border: none; text-align: center; padding: 10px; cursor: pointer;">
-      Action 2
-    </button>
-  </a>
-</div>
