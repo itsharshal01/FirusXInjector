@@ -2,9 +2,6 @@
   <img src="https://github.com/C0d3h01/FirusXinjector/assets/109863197/d50c8edb-c31a-4cc1-8b5f-a44026e28382" alt="FirusXinjector Logo">
 </p>
 
-[![Page Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyliekyler%2FMAGNETAR&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Page+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 <h1 align="center">FirusXinjector</h1>
 <h3 align="center">Supercharge Your Android Experience!</h3>
 
