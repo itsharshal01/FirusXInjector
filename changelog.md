@@ -1,14 +1,19 @@
-### FirusXinjector
+~ FirusXinjector
 
-## Version:2.1.3
+~ Version:2.1.3
+~ Codename: Quantum
 
-### Changelog:
-- Adjusted Frequency.
-- Implemented more dalvik tweaks.
-- Fixed execution functions.
-- Fixed synchronisation.
-- Fixed conflicts with TaskManager.
-- Fixed CPU variables.
-- Implemented LMK tweaks.
-- Improved Variable Localization.
-- Miscellaneous Changes.
+~ Changelog:
+- Enhanced CPU/GPU functionality.
+- Improved Kernel Tweaks.
+- Improved Virtual Machine Tweaks.
+- Improved busybox Compatibility.
+- Optimized RAM management tweaks.
+- Improved task management.
+- Add GMS Killer in profiles.
+- Added in-built APK.
+- Improved installation.
+- Reworked sync for better performance.
+- Streamlined installation and permissions.
+- Removed unnecessary tweaks.
+- Add misc Changes.
