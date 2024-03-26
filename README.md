@@ -7,6 +7,18 @@
 
 <p align="center">FirusXInjector is a powerful tweak module designed to elevate your device's performance, extend battery life, and enhance your overall user experience. With carefully crafted profiles, it caters to various usage scenarios, ensuring optimal performance and efficiency tailored to your needs.</p>
 
+<p align="center">
+  <a href="https://paypal.me/c0d3h018" target="_blank">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Sponsor" style="width: 120px;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/FirusXinjector" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" style="width: 100px;">
+  </a>
+</p>
+
 <h3 align="center">Why FirusXinjector?</h3>
 
 <ul>
@@ -41,3 +53,4 @@
 <h2 align="center">Developer</h2>
 
 <p align="center">- Developer: <a href="https://t.me/C0d3h01">@C0d3h01</a></p>
+
